@@ -3,5 +3,11 @@
 
 2. Which transmission media has the highest transmission speed in a network?
    optical fiber.
-3. Services provided by physical layer?
-   
+3. What is physical layer?
+   The physical layer deals with bit-level transmission between different devices and supports electrical or mechanical interfaces connecting to the physical medium for synchronized communication.
+4.  physical layer provides
+ a) mechanical specifications of electrical connectors and cables
+ b) electrical specification of transmission line signal level
+ c) specification for IR over optical fiber
+
+
